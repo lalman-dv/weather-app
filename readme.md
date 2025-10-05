@@ -54,5 +54,5 @@ weather-app/
   ⁠◦  📍 Geolocation-based weather
 
 📸 Preview
-![weather app preview](<Screenshot 2025-10-05 at 12.14.56 PM.png>)
+Screenshot 2025-10-05 at 12.14.56 PM.png
 ```
