@@ -53,6 +53,6 @@ weather-app/
   ⁠◦  🌡️ Celsius ↔ Fahrenheit switch
   ⁠◦  📍 Geolocation-based weather
 
-📸 Preview
-Screenshot 2025-10-05 at 12.14.56 PM.png
+📸 Preview<img width="763" height="746" alt="Screenshot 2025-10-05 at 12 14 56 PM" src="https://github.com/user-attachments/assets/52ebd8c1-aa22-4a34-80bd-09dad173a263" />
+
 ```
